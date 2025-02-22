@@ -1,0 +1,19 @@
+.ace-bash {
+    background: #1e1e1e;
+    color: #d4d4d4;
+  }
+  
+  .terminal-content {
+    background: #000;
+    color: #0f0;
+    padding: 10px;
+    height: 100%;
+  }
+  
+  .command-input {
+    background: transparent;
+    border: none;
+    color: #0f0;
+    outline: none;
+    width: 90%;
+  }

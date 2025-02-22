@@ -6,7 +6,9 @@
     "readme": "readme.md",
     "icon": "icon.png",
     "files": [
-      "assets"
+      "./assets/*",
+      "./src/*", 
+
     ],
     "minVersionCode": 290,
     "price": 0,
@@ -14,12 +16,4 @@
       "name": "TarnaWijaya",
       "github": "XTarnaWijaya",
       "email": "tarnaindramayuu@gmail.com"
-    },
-    "contributors": [
-      {
-        "name": "Nama lu",
-        "email": "email lu",
-        "github": "github lu"
-      }
-    ]
-  }
+      }}
