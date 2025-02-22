@@ -1,0 +1,25 @@
+{
+    "id": "bash-script",
+    "name": "Bash",
+    "main": "dist/main.js",
+    "version": "1.0.0",
+    "readme": "readme.md",
+    "icon": "icon.png",
+    "files": [
+      "assets"
+    ],
+    "minVersionCode": 290,
+    "price": 0,
+    "author": {
+      "name": "TarnaWijaya",
+      "github": "XTarnaWijaya",
+      "email": "tarnaindramayuu@gmail.com"
+    },
+    "contributors": [
+      {
+        "name": "Nama lu",
+        "email": "email lu",
+        "github": "github lu"
+      }
+    ]
+  }
